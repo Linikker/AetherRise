@@ -1,5 +1,3 @@
-# AetherRise
-
 # Aether Rise
 
 Aether Rise é um RPG de ação multiplayer em 2.5D, focado em progressão por instâncias, combate baseado em habilidade e cooperação entre jogadores.

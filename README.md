@@ -1,52 +1,150 @@
-# Aether Rise
+🎮 Aether Rise
 
-Aether Rise é um RPG de ação multiplayer em 2D focado em progressão por instâncias, combate baseado em habilidade e cooperação entre jogadores.
+🧠 Sobre o Projeto
 
-<br>
+Ascension Layers é um RPG 3D com progressão por andares, inspirado em conceitos de fantasia imersiva, liberdade de build e sistemas sociais dinâmicos.
 
-## 🎮 Visão Geral
+O jogo combina exploração estratégica com combate imersivo através de um sistema híbrido de câmera, alternando entre visão top view (isométrica) e third-person (sobre o ombro).
 
-O jogo propõe uma experiência cooperativa onde jogadores exploram ambientes dinâmicos, enfrentam inimigos e evoluem seus personagens por meio de desafios progressivos.
+---
 
-Inspirado em:
+🎯 Conceito Principal
 
-* Progressão estruturada de jogos estilo SAO
-* Cooperação dinâmica de MMORPGs
-* Combate com foco em timing e posicionamento
+- Progressão vertical por andares (torre)
+- Combate em tempo real com múltiplas abordagens
+- Sistema de evolução baseado no uso (sem classes fixas)
+- Interação social com clãs e missões cooperativas
 
-<br>
+---
 
-## ⚔️ Principais Features
+🔁 Core Loop
 
-* Combate em tempo real com sistema de stamina
-* Sistema de habilidades (skills)
-* Multiplayer cooperativo (até 4 jogadores)
-* Progressão por instâncias ("fragmentos")
-* Loot individual por jogador
-* Bosses com mecânicas e fases
+Explorar → Aceitar missão → Combater → Coletar loot → Evoluir → Subir de andar → Repetir
 
-<br>
+---
 
-## 🏗️ Status do Projeto
+🎥 Sistema de Câmera
 
-🚧 Em desenvolvimento inicial
+O jogo utiliza um sistema híbrido:
 
-<br>
+- 🔝 Top View
+  
+  - Exploração
+  - Combate estratégico
+  - Visão ampla do ambiente
 
-## 🛠️ Tecnologias
+- 🎯 Third-person
+  
+  - Combate imersivo
+  - Encontros importantes (bosses)
+  - Maior controle direto do personagem
 
-* Engine: Unity (C#)
-* Multiplayer: Em definição
+A transição entre câmeras é fluida e faz parte do gameplay.
 
-<br>
+---
 
-## 📜 Licença
+⚙️ Sistemas Principais
 
-Este projeto é proprietário.
+⚔️ Combate
 
-Todo o código e conteúdo deste repositório estão protegidos.
-Não é permitido copiar, modificar, distribuir ou utilizar sem autorização explícita do autor.
+- Ataques leves e pesados
+- Sistema de stamina
+- Habilidades com cooldown
+- Sistema de esquiva
 
-<br>
+---
 
-© 2026 Gustavo Liniker
+📈 Progressão
+
+- Sem classes fixas
+- Evolução baseada no uso de habilidades
+- Equipamentos influenciam diretamente o estilo de jogo
+
+---
+
+🗺️ Sistema de Andares
+
+- Cada andar possui identidade própria
+- Dificuldade progressiva
+- Estrutura modular para expansão futura
+
+---
+
+🤝 Sistema Social (Planejado)
+
+- Clãs (guildas)
+- Missões cooperativas
+- Sistema de grupo (party)
+
+---
+
+📜 Missões
+
+- Missões de NPC
+- Missões de clã
+- Eventos dinâmicos no mapa
+
+---
+
+🧪 MVP (Versão Inicial)
+
+O objetivo inicial do projeto é validar o gameplay com:
+
+- 1 mapa (andar)
+- 1 tipo de inimigo
+- 1 arma
+- 1 habilidade
+- Sistema de combate básico
+- Alternância de câmera funcional
+
+---
+
+🛠️ Tecnologias
+
+- Engine: Unity
+- Linguagem: C#
+- Assets: Placeholder (fase inicial)
+
+---
+
+🚀 Roadmap (Resumo)
+
+- [ ] Protótipo base (movimento + câmera)
+- [ ] Combate básico
+- [ ] Sistema de inimigos
+- [ ] Loop de gameplay funcional
+- [ ] Vertical slice (1 andar completo)
+- [ ] Expansão de sistemas
+
+---
+
+⚠️ Escopo
+
+Este projeto é desenvolvido inicialmente como solo dev, com foco em:
+
+- Escopo controlado
+- Iteração rápida
+- Gameplay acima de complexidade
+
+---
+
+📌 Status
+
+🛠️ Em desenvolvimento (fase de prototipagem)
+
+---
+
+💡 Visão Futura
+
+Expandir o jogo para incluir:
+
+- Sistema de clãs completo
+- Multiplayer cooperativo
+- Economia e crafting
+- Múltiplos andares com biomas únicos
+
+---
+
+📄 Licença
+
+A definir

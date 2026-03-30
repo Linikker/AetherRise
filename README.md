@@ -1,150 +1,137 @@
-🎮 Aether Rise
+# Aether Rise
 
-🧠 Sobre o Projeto
+## Sobre o Projeto
 
-Ascension Layers é um RPG 3D com progressão por andares, inspirado em conceitos de fantasia imersiva, liberdade de build e sistemas sociais dinâmicos.
+Aether Rise é um RPG 3D com progressão por andares, inspirado em conceitos de fantasia imersiva, liberdade de build e sistemas sociais dinâmicos.
 
-O jogo combina exploração estratégica com combate imersivo através de um sistema híbrido de câmera, alternando entre visão top view (isométrica) e third-person (sobre o ombro).
+O jogo combina exploração estratégica com combate imersivo através de um sistema híbrido de câmera, alternando entre visão **top view (isométrica)** e **third-person (sobre o ombro)**.
 
----
+<br>
 
-🎯 Conceito Principal
+## Conceito Principal
 
-- Progressão vertical por andares (torre)
-- Combate em tempo real com múltiplas abordagens
-- Sistema de evolução baseado no uso (sem classes fixas)
-- Interação social com clãs e missões cooperativas
+* Progressão vertical por andares (torre)
+* Combate em tempo real com múltiplas abordagens
+* Sistema de evolução baseado no uso (sem classes fixas)
+* Interação social com clãs e missões cooperativas
 
----
+<br>
 
-🔁 Core Loop
+## Core Loop
 
 Explorar → Aceitar missão → Combater → Coletar loot → Evoluir → Subir de andar → Repetir
 
----
+<br>
 
-🎥 Sistema de Câmera
+## Sistema de Câmera
 
 O jogo utiliza um sistema híbrido:
 
-- 🔝 Top View
-  
-  - Exploração
-  - Combate estratégico
-  - Visão ampla do ambiente
+### Top View
 
-- 🎯 Third-person
-  
-  - Combate imersivo
-  - Encontros importantes (bosses)
-  - Maior controle direto do personagem
+* Exploração
+* Combate estratégico
+* Visão ampla do ambiente
+
+### Third-person
+
+* Combate imersivo
+* Encontros importantes (bosses)
+* Maior controle direto do personagem
 
 A transição entre câmeras é fluida e faz parte do gameplay.
 
----
+<br>
 
-⚙️ Sistemas Principais
+## Sistemas Principais
 
-⚔️ Combate
+### Combate
 
-- Ataques leves e pesados
-- Sistema de stamina
-- Habilidades com cooldown
-- Sistema de esquiva
+* Ataques leves e pesados
+* Sistema de stamina
+* Habilidades com cooldown
+* Sistema de esquiva
 
----
+### Progressão
 
-📈 Progressão
+* Sem classes fixas
+* Evolução baseada no uso de habilidades
+* Equipamentos influenciam diretamente o estilo de jogo
 
-- Sem classes fixas
-- Evolução baseada no uso de habilidades
-- Equipamentos influenciam diretamente o estilo de jogo
+### Sistema de Andares
 
----
+* Cada andar possui identidade própria
+* Dificuldade progressiva
+* Estrutura modular para expansão futura
 
-🗺️ Sistema de Andares
+### Sistema Social (Planejado)
 
-- Cada andar possui identidade própria
-- Dificuldade progressiva
-- Estrutura modular para expansão futura
+* Clãs (guildas)
+* Missões cooperativas
+* Sistema de grupo (party)
 
----
+### Missões
 
-🤝 Sistema Social (Planejado)
+* Missões de NPC
+* Missões de clã
+* Eventos dinâmicos no mapa
 
-- Clãs (guildas)
-- Missões cooperativas
-- Sistema de grupo (party)
+<br>
 
----
-
-📜 Missões
-
-- Missões de NPC
-- Missões de clã
-- Eventos dinâmicos no mapa
-
----
-
-🧪 MVP (Versão Inicial)
+## PVE (Versão Inicial)
 
 O objetivo inicial do projeto é validar o gameplay com:
 
-- 1 mapa (andar)
-- 1 tipo de inimigo
-- 1 arma
-- 1 habilidade
-- Sistema de combate básico
-- Alternância de câmera funcional
+* 1 mapa (andar)
+* 1 tipo de inimigo
+* 1 arma
+* 1 habilidade
+* Sistema de combate básico
+* Alternância de câmera funcional
 
----
+<br>
 
-🛠️ Tecnologias
+## Tecnologias
 
-- Engine: Unity
-- Linguagem: C#
-- Assets: Placeholder (fase inicial)
+* Engine: Unity
+* Linguagem: C#
+* Assets: Placeholder (fase inicial)
 
----
+<br>
 
-🚀 Roadmap (Resumo)
+## Roadmap (Resumo)
 
-- [ ] Protótipo base (movimento + câmera)
-- [ ] Combate básico
-- [ ] Sistema de inimigos
-- [ ] Loop de gameplay funcional
-- [ ] Vertical slice (1 andar completo)
-- [ ] Expansão de sistemas
+* [ ] Protótipo base (movimento + câmera)
+* [ ] Combate básico
+* [ ] Sistema de inimigos
+* [ ] Loop de gameplay funcional
+* [ ] Vertical slice (1 andar completo)
+* [ ] Expansão de sistemas
 
----
+<br>
 
-⚠️ Escopo
+## Escopo
 
 Este projeto é desenvolvido inicialmente como solo dev, com foco em:
 
-- Escopo controlado
-- Iteração rápida
-- Gameplay acima de complexidade
+* Escopo controlado
+* Iteração rápida
+* Gameplay acima de complexidade
 
----
+<br>
 
-📌 Status
+## Status
 
-🛠️ Em desenvolvimento (fase de prototipagem)
+Em desenvolvimento (fase de prototipagem)
 
----
+<br>
 
-💡 Visão Futura
+## Visão Futura
 
-Expandir o jogo para incluir:
+Expansão planejada inclui:
 
-- Sistema de clãs completo
-- Multiplayer cooperativo
-- Economia e crafting
-- Múltiplos andares com biomas únicos
-
----
-
-📄 Licença
-
-A definir
+* Sistema de clãs completo
+* Multiplayer cooperativo
+* Economia e crafting
+* Múltiplos andares com biomas únicos
+<br>
